@@ -1,5 +1,8 @@
 # Startup-kit
-toolset for startup developer
+
+![](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/915638_197858203733313_2137447933_n.jpg)
+
+toolset for startup developers
 
 ## Templates
 
