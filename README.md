@@ -3,6 +3,7 @@ toolset for startup developer
 
 ## Templates
 
+* http://startangular.com/ Theme for Angular.js
 * http://bootstrapzero.com/
 * http://bootswatch.com/
 * http://startbootstrap.com/
